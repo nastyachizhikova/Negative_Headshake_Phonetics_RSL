@@ -1,7 +1,7 @@
 # Negative Headshake Phonetics RSL
 Repository with Python code that was used for our paper 
 
-**Phonetics of Negative Headshake in Russian Sign Language: A Small-Scale Corpus Study** 
+**Phonetics of Negative Headshake in Russian Sign Language: A Small-Scale Corpus Study (2021)** 
 
 
 ```fragments_from_annots.py```: a script that cuts fragments from annotated eaf-files 
